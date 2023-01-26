@@ -1,2 +1,2 @@
-# data-analytics
-Data Analytics related projects
+# amazon-data-analysis
+Amazon customer data analysis 
